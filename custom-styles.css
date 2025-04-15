@@ -1,0 +1,212 @@
+@charset "utf-8";
+body {
+    font-family: "Lexend", sans-serif;
+    font-size: 90%;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: "Amiko", sans-serif;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 120%;
+    padding-bottom: 10px;
+    line-height: 150%;
+}
+
+h2 {
+    font-family: "Amiko", sans-serif;
+    font-weight: 600;
+    color: black;
+    text-transform: uppercase;
+    font-size: 100%;
+    padding-bottom: 5px;
+}
+
+h3 {
+    font-family: "Amiko", sans-serif;
+    font-weight: 900;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h4 {
+    font-family: "Amiko", sans-serif;
+    font-weight: 900;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 100%;
+}
+h5 {
+    font-family: "Amiko", sans-serif;
+    font-weight: 900;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 100%;
+	padding-top: 30px;
+}
+h6{
+    font-family: "Amiko", sans-serif;
+    font-weight: 600;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 90%;
+	padding-top: 15px;
+}
+.navbar {
+    font-family: "Amiko", sans-serif;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 110%;
+}
+
+.navbar-brand {
+	text-align: center;
+	float: none;
+}
+
+
+
+.navbar-header   {
+	float: left;
+    text-align: center;
+    width: 100%;
+}
+.navbar-nav {
+    float: left!important;
+}
+
+.navbar ul {
+	position: absolute;
+	left: 15px;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: black;
+}
+.navbar a:link, .navbar a:active, .navbar a:visited {
+    font-family: "Amiko", sans-serif;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 90%;
+}
+.navbar a:hover {
+    font-family: "Amiko", sans-serif;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 90%;
+    text-decoration: line-through;
+}
+#banner {
+    background-position: center;
+    background-repeat: none;
+    background-image: url(images/typing.jpg);
+    background-size: cover;
+    padding-top: 250px;
+    height: 100vh;
+}
+
+#banner h1 {
+    font-family: "Amiko", sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 300%;
+    text-align: center;
+}
+.tab-space {
+    padding-left: 10%;
+}
+.columns img {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    height: auto;
+}
+aside img {
+    width: 99%;
+    margin-top: 15px;
+    margin-left: 0px;
+    height: auto;
+
+}
+aside h5 {
+    font-weight: 200;
+    font-size: 85%;
+    text-align: right;
+    color: #9C9C9C;
+    letter-spacing: 1px;
+    padding-right: 11px;
+}
+
+
+article {
+    line-height: 200%;
+}
+article a:link, article a:active, article a:visited {
+    color: #6bc4cc;
+}
+article a:hover {
+    color: #8DD1D7;
+    text-decoration: none;
+}
+.footer p {
+    text-transform: uppercase;
+    letter-spacing: 2PX;
+    font-size: 70%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+hr {
+    border: thin solid #f5f2f1;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#gray {
+    background-color: #f5f2f1;
+    padding-bottom: 20px;
+}
+.bottom-padding {
+    padding-bottom: 30px;
+}
+
+.top-margin {
+    margin-top: 30px;
+}
+
+.top-padding {
+    padding-top: 30px;
+}
+.bottom-margin {
+    margin-bottom: 20px;
+
+}
+.small-pic img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+
+    width: 75%
+%;
+    width: 75%;
+
+}
